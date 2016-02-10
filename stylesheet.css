@@ -1,0 +1,72 @@
+table {
+    border-width:0em;
+    border-spacing: 2;
+    padding:0;
+    width:100%;
+}
+A:link {
+    color: black;
+    text-decoration: none;
+}
+A:visited {
+    color: black;
+    text-decoration: none;
+}
+A:active {
+    color: black;
+    text-decoration: none; }
+A:hover {
+    text-decoration: underline; /* Делает ссылку подчеркнутой при наведении на нее курсора */
+    color: blue; /* Цвет ссылки */
+}
+tr {
+    text-align: center;
+}
+p {
+    text-align: center;
+    font-weight: bold;
+}
+form {
+    text-align: center;
+}
+.header {
+    background-color:#cccccc;
+    color :#880000;
+}
+td span {
+    font-size: 0.8em;
+}
+td div {
+    font-size: 0.7em;
+}
+td {
+    background-color: white;
+}
+.s_show{
+    background-color: #FC8BC4;
+}
+.s_hide{
+    background-color: #FFD7EB;
+    color: #888888;
+}
+.d_show{
+    background-color: #0999ff;
+}
+.d_hide{
+    background-color: #CCCCFF;
+    color: #888888;
+}
+.p_show{
+    background-color: #ffff00;
+}
+.p_hide{
+    background-color: #FFFFCC;
+    color: #888888;
+}
+.f_show{
+     background-color: #00ff99;
+}
+.f_hide{
+    background-color: #CCFFCC;
+    color: #888888;
+}
