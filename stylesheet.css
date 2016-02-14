@@ -4,6 +4,9 @@ table {
     padding:0;
     width:100%;
 }
+h2 {
+    text-align: center;
+}
 A:link {
     color: black;
     text-decoration: none;
@@ -42,31 +45,31 @@ td div {
 td {
     background-color: white;
 }
-.s_show{
+.s.show {
     background-color: #FC8BC4;
 }
-.s_hide{
+.s.hide {
     background-color: #FFD7EB;
     color: #888888;
 }
-.d_show{
+.d.show {
     background-color: #0999ff;
 }
-.d_hide{
+.d.hide {
     background-color: #CCCCFF;
     color: #888888;
 }
-.p_show{
+.p.show {
     background-color: #ffff00;
 }
-.p_hide{
+.p.hide {
     background-color: #FFFFCC;
     color: #888888;
 }
-.f_show{
+.f.show {
      background-color: #00ff99;
 }
-.f_hide{
+.f.hide {
     background-color: #CCFFCC;
     color: #888888;
 }
